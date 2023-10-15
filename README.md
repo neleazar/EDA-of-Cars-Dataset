@@ -20,7 +20,7 @@ The primary goals of this project are:
 - **Cars.ipynb**: Python Jupyter notebook containing the EDA code.
 - **CarsData.csv**: The dataset used for the analysis.
 - **Power BI Dashboard of cars dataset.JPG**: A ScreenShot of Power BI visualizations.
-- **Cars.pbix**: A Power BI file with additional visualizations.
+- **car.pbix**: A Power BI file with additional visualizations.
 
 ## Usage
 1. Clone this repository to your local machine.
