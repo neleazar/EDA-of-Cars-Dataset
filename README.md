@@ -36,7 +36,7 @@ The primary goals of this project are:
 The dataset used in this project can be found in the `CarsData.csv` file.
 
 ## Author
-[Eleazar Neamat]
+Eleazar Neamat
 
 ---
 
