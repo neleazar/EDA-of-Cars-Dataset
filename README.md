@@ -37,8 +37,3 @@ The dataset used in this project can be found in the `CarsData.csv` file.
 
 ## Author
 Eleazar Neamat
-
----
-
-For more detailed information, refer to the Jupyter notebook (`Notebook.ipynb`) and the Power BI file (`PowerBI_Visualizations.pbix`) included in this repository.
-# EDA-of-Cars-Dataset
